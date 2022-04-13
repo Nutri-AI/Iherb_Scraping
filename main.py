@@ -15,7 +15,7 @@ def main():
     parser = argparse.ArgumentParser()
     
     parser.add_argument('--directory', type=str,
-                        default='./output_test',
+                        default='./output',
                         help='Output directory')
     parser.add_argument('--sleep', type=float, default=1, help='Sleep time for each submission (post)')
     parser.add_argument('--verbose', dest='VERBOSE', action='store_true')
