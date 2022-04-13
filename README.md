@@ -16,5 +16,5 @@
 ## Arguments
 usage:
 ```python
-python3 run.py [—directory './output'] [—sleep 1] [—verbose]
+python3 run.py [--directory './output'] [—-sleep 1] [—-verbose]
 ```
