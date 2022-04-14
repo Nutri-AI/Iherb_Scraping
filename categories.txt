@@ -1,3 +1,4 @@
+-- Write down the list of categories you want to scrap here --
 vitamins
 minerals
 amino-acids
