@@ -9,6 +9,7 @@
 - 영양 성분표
 
 ## How to use
+![Iherb Category](./docs/iherb_categories.png)
 - Write nutrient supplements category in categories.txt
 - Run main.py
 - Files will be downloaded to 'output' directory
