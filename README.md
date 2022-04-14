@@ -1,5 +1,7 @@
 # Iherb_Scrapping
 
+![Iherb homepage](./docs/iherb_homepage.png)
+
 [Iherb Korea](https://kr.iherb.com/)에서 영양제 데이터를 수집함
 
 ## 수집한 데이터의 목록
@@ -10,9 +12,9 @@
 
 ## How to use
 ![Iherb Category](./docs/iherb_categories.png)
-- Write nutrient supplements category in categories.txt
-- Run main.py
-- Files will be downloaded to 'output' directory
+- Write nutrient supplements categories among categories above in **categories.txt**
+- Run **main.py**
+- Files will be downloaded to **output** directory
 
 ## Arguments
 usage:
