@@ -28,6 +28,6 @@
 
 ## Arguments
 usage:
-```python
+```text
 python3 run.py [--directory './output'] [—-sleep 1]
 ```
